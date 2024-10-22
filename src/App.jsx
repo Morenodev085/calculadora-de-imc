@@ -1,4 +1,4 @@
-import Perfil from "./componentes/Perfil/perfil"
+import Perfil from "./componentes/Perfil"
 
 function App() {
   return(
