@@ -1,0 +1,31 @@
+.perfil{
+    background-color: aliceblue;
+    font-family: sans-serif;
+    max-width: 100%;
+    max-height: 840px;
+    padding: 16px; /* Adicionando um pouco de espaço interno */
+}
+
+.perfil-titulo{
+    border: 1px solid #000; 
+    border-radius: 4px; /* Opcional: para bordas arredondadas */
+    padding: 32px;
+}
+
+.perfil-input{
+    border-radius: 8px;
+    margin-right: 16px;
+    padding: 8px;
+}
+
+.resultado{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: larger;
+    border: 1px solid #000; 
+    background: #ddd;
+    border-radius: 8px;
+    padding: 4px;
+}
+
